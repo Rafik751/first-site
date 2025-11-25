@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Static Workspace",
+  "description": "A lightweight, static-hostable React application powered by Google Gemini 2.5 Flash. Features real-time chat, markdown rendering, and a responsive Tailwind CSS interface.",
+  "requestFramePermissions": []
+}
