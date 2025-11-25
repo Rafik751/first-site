@@ -1,8 +1,7 @@
 {
-  "name": "gemini-static-workspace",
-  "compatibility_date": "2024-09-23",
-  "pages_build_output_dir": "dist",
-  "observability": {
-    "enabled": true
+  "name": "my-website",
+  "compatibility_date": "2025-11-25",
+  "assets": {
+    "directory": "."
   }
 }
